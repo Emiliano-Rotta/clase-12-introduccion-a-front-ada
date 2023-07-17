@@ -1,1 +1,1 @@
-Este repositorio tiene ejercicios resueltos, para que loe vean despues de hacer ustedes por su cuenta los ejercicios.
+🔒🔒🔒Este repositorio tiene ejercicios resueltos, para que loe vean despues de hacer ustedes por su cuenta los ejercicios.🔒🔒🔒
