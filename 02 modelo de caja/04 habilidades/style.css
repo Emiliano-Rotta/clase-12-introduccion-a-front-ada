@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(2, 254, 212);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenedor{
+    background-color: rgb(210, 208, 208);
+    width: 350px;
+    height: 400px;
+    margin-top: 5%;
+    padding: 3%;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+
+}
+.nav button {
+    background-color: white;
+    color: gray;
+    height: 20px;
+    margin-top: 5%;
+}
+
+.primerDiv{
+    background-color: rgb(246, 115, 137);
+    border-radius: 5%;
+}
+.segundoDiv{
+    background-color: purple;
+    border-radius: 5%;
+}
+.tercerDiv{
+    background-color: rgb(255, 187, 92);
+    border-radius: 5%;
+}
+
+.box{
+    background-color: white;
+    margin-left: 3%;
+    border-radius: 5%;
+    border: solid 1px black;
+    margin-top: 3%;
+}
+
+

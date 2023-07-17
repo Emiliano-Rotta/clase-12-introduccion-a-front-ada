@@ -1,0 +1,14 @@
+.letraGrande{
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.texto{
+    color:gray
+}
+a{
+    color: aquamarine;
+    text-decoration: none;
+}
+.parrafoTres{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

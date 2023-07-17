@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(205, 205, 205);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenedor{
+    background-color: white;
+    width: 350px;
+    height: 350px;
+    margin-top: 5%;
+    padding-left: 3%;
+    padding-top: 3%;
+}
+
+.contenedor button{
+    background-color: rgb(37, 110, 255);
+    color: white;
+}
+
+.campana{
+    font-size: 50px;
+}

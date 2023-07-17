@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800&display=swap');
+
+body{
+    background-color: #212121;
+    color: #fafafa;
+}
+.parrafo{
+    font-size: 48px;
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    font-size: 120px;
+    font-family: 'Montserrat';
+}
+#caractUno{
+    color: red;
+}
+#nombre{
+    color: forestgreen;
+}
+#caractDos{
+    color: blue;
+}
+#caractTres{
+    color: yellowgreen;
+}
